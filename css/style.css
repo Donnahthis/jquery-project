@@ -1,0 +1,15 @@
+p {
+       cursor: pointer;
+       color:  #0088cc;
+     }
+
+     p:hover {
+       text-decoration: inherit;
+       text-align: left;
+       text-emphasis-style: sesame;
+     }
+
+     .intro {
+       font-style: italic;
+     }
+    
