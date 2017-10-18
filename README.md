@@ -1,8 +1,8 @@
-# {Application Name}
+# {JQUERY-PRACTICE}
 
-#### {Brief description of application}, {Date of current version}
+#### {This is the content of the project}, {18/10/2017}
 
-#### By **{List of contributors}**
+#### By **{Dona Adhiambo}**
 
 ## Description
 
@@ -23,6 +23,6 @@ for positive results.
 {The project uses HTML and CSS.}
 
 
-*{Determine the license under which this application can be used.  See below for more details on licensing.}*
+*{Can only be used under private licensing.}*
 
-Copyright (c) {year} **{List of contributors or company name}**
+Copyright (c) {2017} **{my fellow peers at Moringa school.}**
